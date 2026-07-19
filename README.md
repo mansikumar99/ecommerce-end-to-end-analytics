@@ -131,8 +131,8 @@ Beyond the main overview dashboard, dedicated dashboards were built for:
   average delivery days by category
 - **[Sellers & Delivery](https://public.tableau.com/views/SellersandDeliveryOverview/SellersAndDeliveryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — revenue/volume by seller state, on-time delivery
   rate by state, delivery time trend
-- **[Reviews & Satisfaction](https://public.tableau.com/views/ReviewsSatisfaction/ReviewsSatisfaction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — review score trend, review score by state,
-  review score vs. delivery speed
+- **[Reviews & Satisfaction](https://public.tableau.com/views/ReviewsSatisfaction/ReviewsSatisfaction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — review score trend over time, highest- and
+  lowest-rated product categories, sales vs. review score by category
 
 All dashboards share the same unified data source, so a filter placed on one
 chart can control every chart on that dashboard at once.
