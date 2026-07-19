@@ -122,15 +122,17 @@ payment mix, delivery/review performance, and recommendations.
 ## Dashboards
 
 You can view the interactive dashboards directly on Tableau Public:
-- **[E-Commerce Performance Overview](https://public.tableau.com/views/E-CommercePerformanceOverview_17844666542380/PerformanceOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- **[E-Commerce Performance Overview](https://public.tableau.com/views/E-CommercePerformanceOverview_17844666542380/PerformanceOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — company-wide KPIs, revenue over
+  time, revenue by state, orders by day of week, payment method mix, delivery
+  time distribution, and top categories by revenue
 
 Beyond the main overview dashboard, dedicated dashboards were built for:
-- **[Customers](https://public.tableau.com/views/CustomerSummary_17844666993460/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — lifetime value distribution, acquisition trend, geographic
-  concentration, repeat vs. one-time customer split
-- **[Products](https://public.tableau.com/views/ProductDashboard_17844667429100/ProductDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — price distribution, freight cost as % of price by category,
-  average delivery days by category
-- **[Sellers & Delivery](https://public.tableau.com/views/SellersandDeliveryOverview/SellersAndDeliveryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — revenue/volume by seller state, on-time delivery
-  rate by state, delivery time trend
+- **[Customers](https://public.tableau.com/views/CustomerSummary_17844666993460/CustomerDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — customer type split (repeat vs. one-time), lifetime value
+  distribution, top customer cities
+- **[Products](https://public.tableau.com/views/ProductDashboard_17844667429100/ProductDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — price distribution, average delivery days by category,
+  freight cost as % of price by category
+- **[Sellers & Delivery](https://public.tableau.com/views/SellersandDeliveryOverview/SellersAndDeliveryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — order volume by seller state, on-time delivery
+  rate by state, revenue by seller state
 - **[Reviews & Satisfaction](https://public.tableau.com/views/ReviewsSatisfaction/ReviewsSatisfaction?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** — review score trend over time, highest- and
   lowest-rated product categories, sales vs. review score by category
 
